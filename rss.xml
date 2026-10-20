@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>将军箭</title>
+    <link>https://imaginative-haupia-8a077d.netlify.app</link>
+    <language>zh-CN</language>
+    <description>公众号《将军箭》文章的音频版，用免费 AI 语音自动转化，陪你读与听。</description>
+    <itunes:author>将军箭</itunes:author>
+    <itunes:image href="https://imaginative-haupia-8a077d.netlify.app/cover.jpg"/>
+    <itunes:category text="Society & Culture"/>
+    <atom:link href="https://imaginative-haupia-8a077d.netlify.app/rss.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>deemerxiao@163.com</managingEditor>
+    <item>
+      <title>一只被推上风口的猪——易会满与他的《动物公司》</title>
+      <description>① 他还想招易会满万万没有料到，自己叱咤风云大半生，到头来活得像个笑话，而且还是个老笑话：某地下工作者被捕。老虎凳、辣椒水轮番上，他咬紧牙关，一字不吐；孰料敌人竟使出美人计，硬汉防线顷刻崩塌。事后敌人准备收工，他抬头说：“我还想招”。有人说</description>
+      <enclosure url="https://imaginative-haupia-8a077d.netlify.app/episodes/一只被推上风口的猪——易会满与他的《动物公司》.mp3" type="audio/mpeg" length="40272336"/>
+      <guid isPermaLink="false">episodes/一只被推上风口的猪——易会满与他的《动物公司》.mp3</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
